@@ -21,8 +21,7 @@
 <td width="50%">
 <h3 align="center">Super Mario Bros</h3>
 <div align="center">
-<a href="![image](https://github.com/Reguineo0/Reguineo0/assets/153314946/837af690-7bce-4232-be57-586c88354575)
-" width="400" alt="Curso básico android"></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="[https://i.imgur.com/7uCBigG.jpg](https://i.imgur.com/9fp7wBZ.jpeg)" width="400" alt="Curso arquitectura MVVM"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
