@@ -12,7 +12,7 @@
 - 🐈‍⬛ I love Pets 
 <br>
 
-## Proyectos *bombitas*
+## Proyectos *Destacados*
 <table>
 <tr>
 <td width="50%">
