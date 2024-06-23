@@ -11,9 +11,47 @@
 ## Sobre mi
 
 - ⭐ Github Star ⭐ 
-- 📲 FullStack developer
+- <div id="contenedor"></div>
 <br>
+<script>document.addEventListener('DOMContentLoaded', function() {
+  const texto = "Desarrollador Fullstack";
+  const contenedor = document.getElementById('contenedor');
+  const clasesTexto = "text-2xl scale-110 sm:scale-100 sm:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-primary to-blue-500 md:text-4xl xl:text-5xl";
+  let indice = 0;
 
+  // Crear el contenedor del texto animado
+  const textoContainer = document.createElement('span');
+  textoContainer.className = clasesTexto;
+  contenedor.appendChild(textoContainer);
+
+  // Crear el elemento del cursor
+  const cursor = document.createElement('span');
+  cursor.id = 'cursor';
+  cursor.textContent = '_';
+  contenedor.appendChild(cursor);
+
+  function escribir() {
+      if (indice < texto.length) {
+          textoContainer.textContent += texto[indice];
+          indice++;
+          setTimeout(escribir, 170); // 200 ms de retraso entre letras
+      } else {
+          setTimeout(borrar, 500); // Empezar a borrar después de una pausa
+      }
+  }
+  function borrar() {
+    if (indice > 0) {
+        textoContainer.textContent = textoContainer.textContent.slice(0, -1);
+        indice--;
+        setTimeout(borrar, 200); // 200 ms de retraso entre borrar letras
+    } else {
+        setTimeout(escribir, 500); // Empezar a escribir de nuevo después de una pausa
+    }
+}
+
+  escribir();
+
+});</script>
 ## Proyectos *bombitas*
 <table>
 <tr>
