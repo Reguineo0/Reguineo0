@@ -18,7 +18,7 @@
 <td width="50%">
 <h3 align="center">Super Mario Bros</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/9fp7wBZ.jpeg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/Reguineo0/Super-mario-bros" target="_blank"><img src="https://i.imgur.com/9fp7wBZ.jpeg" width="400" alt="Curso arquitectura MVVM"></a>
 <p>
 <a href="https://github.com/Reguineo0/Super-mario-bros" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -33,7 +33,7 @@
                <br>
 <h3 align="center">Arquitectura MVVM</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/Reguineo/Reproductor-De-Musica" target="_blank"><img src="https://i.imgur.com/8jBtCE0.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
