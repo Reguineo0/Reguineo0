@@ -32,7 +32,7 @@
 <br>
   <a href="https://github.com/Reguineo0/Super-mario-bros" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
+<a href="https://supermariobros-s.netlify.app" target="_blank">
 <img src="https://img.shields.io/badge/-PROBAR-green?style=for-the-badge&color=fbfc40">
 </a>
 </div>
@@ -48,7 +48,7 @@
 <p>Un reproductor de música es un dispositivo o aplicación que permite a los usuarios escuchar archivos de audio almacenados localmente o transmitidos en línea. Estos reproductores ofrecen características como listas de reproducción personalizables, ecualización de sonido, gestión de bibliotecas musicales,etc.</p>
   <a href="https://github.com/Reguineo0/Reproductor-De-Musica" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank"><img src="https://img.shields.io/badge/-PROBAR-green?style=for-the-badge&color=3fFD7f">
+<a href="https://reproductor-de-musica02.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-PROBAR-green?style=for-the-badge&color=3fFD7f">
 </a>
 </div>                                                             
 </table>                                                                                 
@@ -66,7 +66,7 @@
 <br>
 <a href="https://github.com/Reguineo0/Arkanoid" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-80bbe8?style=for-the-badge&logo=github&logoColor=black&textColor=Black"></a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
+<a href="https://arkanoido5.netlify.app" target="_blank">
 <img src="https://img.shields.io/badge/-PROBAR-green?style=for-the-badge&color=3583e8">
 </a>
 </div>
@@ -82,7 +82,7 @@
 <p>Un editor de código es una herramienta de software diseñada para escribir y editar el código fuente de programas informáticos. Estos editores ofrecen funcionalidades que facilitan la programación, como resaltado de sintaxis, autocompletado, depuración y gestión de proyectos.</p>
 
 <a href="https://github.com/Reguineo0/Live-Editor-code" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black"></a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank"><img src="https://img.shields.io/badge/-PROBAR-green?style=for-the-badge&color=ff00f4"></a>
+<a href="https://live-editor-code.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-PROBAR-green?style=for-the-badge&color=ff00f4"></a>
 </div>
                                                                                       
 </td>  
