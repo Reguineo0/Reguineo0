@@ -60,7 +60,6 @@
 
 </p>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
-<br>
 <a href="https://github.com/Reguineo0/Arkanoid" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-fbfc40?style=for-the-badge&logo=github&logoColor=black&textColor=Black">
 </a>
@@ -75,7 +74,6 @@
 
 </p>
 <p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
-<br>
 <a href="https://github.com/Reguineo0/Live-Editor-code" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
@@ -97,19 +95,20 @@
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)
-    ![REACT](https://shields.io/badge/react-1c66b0?logo=react&style=for-the-badge&logoColor=white)
 
 <br>   
     
-- **Front-End Development**:
+- **Desarrollo Front-End**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+      ![REACT](https://shields.io/badge/react-1c66b0?logo=react&style=for-the-badge&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 <br>
 
-- **Back-End Development**:
+- **Desarrollo Back-End**:
 
    ![PYTHON](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
    ![MONGODB](https://img.shields.io/badge/-MongoDB-228013?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
@@ -164,3 +163,4 @@
 <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Reguineo0&layout=compact&theme=dark#gh-dark-mode-only">
 </a>
 </p>
+
