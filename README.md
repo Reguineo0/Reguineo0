@@ -143,7 +143,7 @@
 <li>
 
 <a href="mailto:Reguineo0@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Reguineo0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
