@@ -147,7 +147,7 @@
 	<br>
 <li>
 <a>
-	<img src="https://img.shields.io/badge/Bounder-254dc4?style=for-the-badge&logo=Discord&logoColor=white" style="margin-bottom: 5px;"></a></li>
+	<img src="https://img.shields.io/badge/Bounder9-254dc4?style=for-the-badge&logo=Discord&logoColor=white" style="margin-bottom: 5px;"></a></li>
 	<br>
 <li>
 
