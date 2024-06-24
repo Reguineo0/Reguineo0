@@ -24,7 +24,7 @@
 <td width="50%">
 <h3 align="center">Super Mario Bros ↗️</h3>
 <div align="center">
-<a href="https://github.com/Reguineo0/Super-mario-bros" target="_blank"></a>
+
 <p>
 
 </p>
@@ -39,19 +39,50 @@
 <td width="50%">
 <h3 align="center">Reproductor De Musica ↗️</h3>
 <div align="center">                                       
-<a href="https://github.com/Reguineo0/Reproductor-De-Musica" target="_blank"></a>
+
 <p>
 </p>
 <p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing.</p>
   <br>
   <a href="https://github.com/Reguineo0/Reproductor-De-Musica" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
+<img src="https://img.shields.io/badge/C%C3%93DIGO-fff?style=for-the-badge&logo=github&logoColor=black"></a>
 </div>                                                             
 </table>                                                                                 
 </div>
 <br>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Arkanoid</h3>
+<div align="center">
+<p>
+
+</p>
+<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<a href="https://github.com/Reguineo0/Arkanoid" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</div>
+                                                                                      
+</td>       
+
+<td width="50%">
+<h3 align="center">Editor de codigo/h3>
+<div align="center">
+<p>
+
+</p>
+<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<a href="https://github.com/Reguineo0/Live-Editor-code" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</div>
+                                                                                      
 </td>  
+</table>                                                                                 
+</div>
+<br>
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
