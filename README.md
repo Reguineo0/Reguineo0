@@ -10,7 +10,7 @@
 - 📱 FullStack Developer
 - 💻 Game Developer
 - 🐈‍⬛ I love Pets 
-
+<br>
 
 ## Proyectos *Destacados*
 <table>
