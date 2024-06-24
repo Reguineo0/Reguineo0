@@ -28,7 +28,7 @@
 <p>
 
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>"Super Mario Bros." es un videojuego de plataformas desarrollado por Nintendo y lanzado en 1985. Protagonizado por Mario, un fontanero italiano, y su hermano Luigi, los jugadores deben rescatar a la Princesa Peach del villano Bowser</p>
   <br>
   <a href="https://github.com/Reguineo0/Super-mario-bros" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
@@ -42,7 +42,7 @@
 
 <p>
 </p>
-<p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing.</p>
+<p>Un reproductor de música es un dispositivo o aplicación que permite a los usuarios escuchar archivos de audio almacenados localmente o transmitidos en línea. Estos reproductores ofrecen características como listas de reproducción personalizables, ecualización de sonido, gestión de bibliotecas musicales,etc.</p>
   <br>
   <a href="https://github.com/Reguineo0/Reproductor-De-Musica" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
@@ -59,7 +59,7 @@
 <p>
 
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>"Arkanoid" es un videojuego clásico de arcade, desarrollado por Taito en 1986. Es una versión mejorada del juego "Breakout" de Atari, donde los jugadores controlan una paleta móvil para golpear una pelota y destruir bloques en la parte superior de la pantalla.</p>
 <a href="https://github.com/Reguineo0/Arkanoid" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-fbfc40?style=for-the-badge&logo=github&logoColor=black&textColor=Black">
 </a>
@@ -73,7 +73,7 @@
 <p>
 
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p>Un editor de código es una herramienta de software diseñada para escribir y editar el código fuente de programas informáticos. Estos editores ofrecen funcionalidades que facilitan la programación, como resaltado de sintaxis, autocompletado, depuración y gestión de proyectos.</p>
 <a href="https://github.com/Reguineo0/Live-Editor-code" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
