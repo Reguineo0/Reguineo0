@@ -94,7 +94,6 @@
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)
-
 <br>   
     
 - **Desarrollo Front-End**:
@@ -132,13 +131,17 @@
 <ul>
 
 <br>
-<li>
+<li  style="list-style-type: none;">
 <a href="https://www.linkedin.com/in/facundo-tobias-2432662a4/" target="_blank">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;">
 </li>
 <br>
-
 <li>
+<a href="https://x.com/reguineo26284" target="_blank">
+	<img src="https://img.shields.io/badge/Twitter-349beb?style=for-the-badge&logo=x&logoColor=white" style="margin-bottom: 5px;"></a></li>
+	<br>
+<li>
+
 <a href="mailto:Reguineo0@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Reguineo0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
