@@ -131,8 +131,11 @@
 
 <ul>
 
-
 <br>
+<li>
+<a href="https://www.linkedin.com/in/facundo-tobias-2432662a4/" target="_blank">
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;">
+</li>
 <br>
 
 <li>
