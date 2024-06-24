@@ -28,10 +28,13 @@
 <p>
 
 </p>
-<p>"Super Mario Bros." es un videojuego de plataformas desarrollado por Nintendo y lanzado en 1985. Protagonizado por Mario, un fontanero italiano, y su hermano Luigi, los jugadores deben rescatar a la Princesa Peach del villano Bowser</p>
-  <br>
+<p>"Super Mario Bros." es un videojuego de plataformas desarrollado por Nintendo y lanzado en 1985. Protagonizado por Mario, un fontanero italiano, y su hermano Luigi, los jugadores deben rescatar a la Princesa Peach del villano Bowser .</p>
+<br>
   <a href="https://github.com/Reguineo0/Super-mario-bros" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
+<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
+<img src="https://img.shields.io/badge/-PROBAR-green?style=for-the-badge&color=fbfc40">
+</a>
 </div>
                                                                                       
 </td>  
@@ -43,14 +46,14 @@
 <p>
 </p>
 <p>Un reproductor de música es un dispositivo o aplicación que permite a los usuarios escuchar archivos de audio almacenados localmente o transmitidos en línea. Estos reproductores ofrecen características como listas de reproducción personalizables, ecualización de sonido, gestión de bibliotecas musicales,etc.</p>
-  <br>
   <a href="https://github.com/Reguineo0/Reproductor-De-Musica" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
+<a href="https://youtu.be/UaR7GSNACsM" target="_blank"><img src="https://img.shields.io/badge/-PROBAR-green?style=for-the-badge&color=3fFD7f">
+</a>
 </div>                                                             
 </table>                                                                                 
 </div>
 <br>
-
 <table>
 <tr>
 <td width="50%">
@@ -59,9 +62,12 @@
 <p>
 
 </p>
-<p>"Arkanoid" es un videojuego clásico de arcade, desarrollado por Taito en 1986. Es una versión mejorada del juego "Breakout" de Atari, donde los jugadores controlan una paleta móvil para golpear una pelota y destruir bloques en la parte superior de la pantalla.</p>
+<p>"Arkanoid" es un videojuego clásico de arcade, desarrollado por Taito en 1986. Es una versión mejorada del juego "Breakout" de Atari, donde los jugadores controlan una paleta móvil para golpear una pelota y destruir bloques en la parte superior de la pantalla </p>
+<br>
 <a href="https://github.com/Reguineo0/Arkanoid" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-fbfc40?style=for-the-badge&logo=github&logoColor=black&textColor=Black">
+<img src="https://img.shields.io/badge/CÓDIGO-80bbe8?style=for-the-badge&logo=github&logoColor=black&textColor=Black"></a>
+<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
+<img src="https://img.shields.io/badge/-PROBAR-green?style=for-the-badge&color=3583e8">
 </a>
 </div>
                                                                                       
@@ -74,9 +80,9 @@
 
 </p>
 <p>Un editor de código es una herramienta de software diseñada para escribir y editar el código fuente de programas informáticos. Estos editores ofrecen funcionalidades que facilitan la programación, como resaltado de sintaxis, autocompletado, depuración y gestión de proyectos.</p>
-<a href="https://github.com/Reguineo0/Live-Editor-code" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
+
+<a href="https://github.com/Reguineo0/Live-Editor-code" target="_blank"><img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black"></a>
+<a href="https://youtu.be/UaR7GSNACsM" target="_blank"><img src="https://img.shields.io/badge/-PROBAR-green?style=for-the-badge&color=ff00f4"></a>
 </div>
                                                                                       
 </td>  
