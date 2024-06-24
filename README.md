@@ -8,7 +8,7 @@
 
 - ⭐ Github User ⭐
 - 📱 FullStack Developer
-- 💻 Desktop Developer
+- 💻 Game Developer
 - 🐈‍⬛ I love Pets 
 <br>
 
