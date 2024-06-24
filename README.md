@@ -45,7 +45,7 @@
 <p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing.</p>
   <br>
   <a href="https://github.com/Reguineo0/Reproductor-De-Musica" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-fff?style=for-the-badge&logo=github&logoColor=black"></a>
+<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -61,14 +61,14 @@
 </p>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
 <a href="https://github.com/Reguineo0/Arkanoid" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black&textColor=Black">
 </a>
 </div>
                                                                                       
 </td>       
 
 <td width="50%">
-<h3 align="center">Editor de codigo/h3>
+<h3 align="center">Editor de codigo</h3>
 <div align="center">
 <p>
 
@@ -125,7 +125,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/facundo-tobias-2432662a4" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Facundo Tobias%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/Facundo Tobias-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" />
 </a>
 </li>
 
@@ -134,7 +134,7 @@
 
 <li>
 <a href="mailto:Reguineo0@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Reguineo0@Gmail.com%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Reguineo0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 	
