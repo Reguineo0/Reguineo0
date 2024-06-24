@@ -150,19 +150,14 @@
 </div>
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 
 ## ⚙️ &nbsp; Github Analystic
 <br>
 <p align="center">
-<img align="center" style="height:11rem;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Reguineo0&include_all_commits=true&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" >
-<br>
-<br>
-<img align="center" style="height:11rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=Reguineo0&theme=dark#gh-dark-mode-only" alt="mystreak">
-<br>
-<br>
-<img align="center" style="height:11rem;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Reguineo0&layout=compact&theme=dark#gh-dark-mode-only">
+<img align="center" style="height:8rem;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Reguineo0&include_all_commits=true&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" >
+<img align="center" style="height:8rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=Reguineo0&theme=dark#gh-dark-mode-only" alt="mystreak">
+<img align="center" style="height:8rem;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Reguineo0&layout=compact&theme=dark#gh-dark-mode-only">
 </p>
 <br>
 
