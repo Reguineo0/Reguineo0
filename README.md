@@ -157,8 +157,9 @@
 ## ⚙️ &nbsp;  GitHub Analytics
 
 <p align="center">
-<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Reguineo0&include_all_commits=true&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" >
-<img align="center" style="height:12rem;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Reguineo0&layout=compact&theme=dark#gh-dark-mode-only">
+<img align="center" style="height:10rem;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Reguineo0&include_all_commits=true&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" >
+	
+<img align="center" style="height:10rem;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Reguineo0&layout=compact&theme=dark#gh-dark-mode-only">
 </a>
 </p>
 
