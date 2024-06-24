@@ -132,7 +132,6 @@
 ## <b>let's connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
-
 <ul>
 
 <br>
@@ -143,11 +142,10 @@
 <br>
 <li>
 <a href="https://x.com/reguineo26284" target="_blank">
-	<img src="https://img.shields.io/badge/Twitter-349beb?style=for-the-badge&logo=x&logoColor=white" style="margin-bottom: 5px;"></a></li>
+	<img src="https://img.shields.io/badge/Twitter-349beb?style=for-the-badge&logo=x&logoColor=white" style="margin-bottom: 5px;"></a></li> 
 	<br>
 <li>
-<a>
-	<img src="https://img.shields.io/badge/Bounder9-254dc4?style=for-the-badge&logo=Discord&logoColor=white" style="margin-bottom: 5px;"></a></li>
+<a><img src="https://img.shields.io/badge/Bounder9-254dc4?style=for-the-badge&logo=Discord&logoColor=white" style="margin-bottom: 5px;"></a></li>
 	<br>
 <li>
 
@@ -155,7 +153,6 @@
 <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
-	
 </ul>
 </div>
 <br>
