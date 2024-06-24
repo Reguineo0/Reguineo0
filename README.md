@@ -61,7 +61,7 @@
 </p>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
 <a href="https://github.com/Reguineo0/Arkanoid" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black&textColor=Black">
+<img src="https://img.shields.io/badge/CÓDIGO-fbfc40?style=for-the-badge&logo=github&logoColor=black&textColor=Black">
 </a>
 </div>
                                                                                       
@@ -148,9 +148,9 @@
 ## ⚙️ &nbsp;  GitHub Analytics
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Reguineo0&include_all_commits=true&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" alt="Abdo Achhoubi Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Reguineo0&include_all_commits=true&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" >
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reguineo0&layout=compact&theme=dark#gh-dark-mode-only" alt="Abdo Achhoubi Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reguineo0&layout=compact&theme=dark#gh-dark-mode-only">
 </a>
 </p>
