@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://Bounder.netlify.app">Bounder</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Greeting, Im <a href="https://Bounder.netlify.app">Bounder</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 <a href="https://bounder.netlify.app"><img src="https://i.imgur.com/3vP5ZpJ.png"></a>
 
@@ -7,7 +7,7 @@
 
 
 
-##   Sobre Mi
+##   About me
 
 - ⭐ Github User ⭐
 - 📱 FullStack Developer
@@ -18,7 +18,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
-## Proyectos *Destacados*
+## Featured *Proyects*
 <table>
 <tr>
 <td width="50%">
@@ -28,27 +28,27 @@
 <p>
 
 </p>
-<p>"Super Mario Bros." es un videojuego de plataformas desarrollado por Nintendo y lanzado en 1985. Protagonizado por Mario, un fontanero italiano, y su hermano Luigi, los jugadores deben rescatar a la Princesa Peach del villano Bowser.</p>
+<p>"Super Mario Bros." is a platform video game developed by Nintendo and released in 1985. Starring Mario, an Italian plumber, and his brother Luigi, players must rescue Princess Peach from the villain Bowser.</p>
 <br>
   <a href="https://github.com/Reguineo0/Super-mario-bros" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
 <a href="https://supermariobros-s.netlify.app" target="_blank">
-<img src="https://img.shields.io/badge/-PROBAR-green?style=for-the-badge&color=fbfc40">
+<img src="https://img.shields.io/badge/-TEST-green?style=for-the-badge&color=fbfc40">
 </a>
 </div>
                                                                                       
 </td>  
 
 <td width="50%">
-<h3 align="center">Reproductor De Musica </h3>
+<h3 align="center">Music Player </h3>
 <div align="center">                                       
 
 <p>
 </p>
-<p>Un reproductor de música es un dispositivo o aplicación que permite a los usuarios escuchar archivos de audio almacenados localmente o transmitidos en línea. Estos reproductores ofrecen características como listas de reproducción personalizables, ecualización de sonido, gestión de bibliotecas musicales,etc.</p>
+<p>A music player is a device or application that allows users to listen to audio files stored locally or streamed online. These players offer features like customizable playlists, sound equalization, music library management, etc.</p>
   <a href="https://github.com/Reguineo0/Reproductor-De-Musica" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
-<a href="https://reproductor-de-musica02.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-PROBAR-green?style=for-the-badge&color=3fFD7f">
+<img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
+<a href="https://reproductor-de-musica02.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-TEST-green?style=for-the-badge&color=3fFD7f">
 </a>
 </div>                                                             
 </table>                                                                                 
@@ -62,25 +62,26 @@
 <p>
 
 </p>
-<p>"Arkanoid" es un videojuego clásico de arcade, desarrollado por Taito en 1986. Es una versión mejorada del juego "Breakout" de Atari, donde los jugadores controlan una paleta móvil para golpear una pelota y destruir bloques en la parte superior de la pantalla </p>
+<p>
+"Arkanoid" is a classic arcade video game, developed by Taito in 1986. It is an enhanced version of the Atari game "Breakout", where players control a moving paddle to hit a ball and destroy blocks at the top of the screen.</p>
 <br>
 <a href="https://github.com/Reguineo0/Arkanoid" target="_blank">
-<img src="https://img.shields.io/badge/-CÓDIGO-3fFD7f?style=for-the-badge&logo=github&logoColor=black"></a>
-<a href="https://arkanoido5.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-PROBAR-green?style=for-the-badge&color=80ffaa">
+	<img src="https://img.shields.io/badge/-CODE-3fFD7f?style=for-the-badge&logo=github&logoColor=black"></a>
+<a href="https://arkanoido5.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-TEST-green?style=for-the-badge&color=80ffaa">
 </a>
 </div>
                                                                                       
 </td>       
 
 <td width="50%">
-<h3 align="center">Editor de codigo</h3>
+<h3 align="center">Code Editor</h3>
 <div align="center">
 <p>
 
 </p>
-<p>Un editor de código es una herramienta de software diseñada para escribir y editar el código fuente de programas informáticos. Estos editores ofrecen funcionalidades que facilitan la programación, como resaltado de sintaxis, autocompletado, depuración y gestión de proyectos.</p>
-<a href="https://github.com/Reguineo0/Live-Editor-code" target="_blank"><img src="https://img.shields.io/badge/-CÓDIGO-cfaae0?style=for-the-badge&color=fbfc40&logoColor=black&logo=github"></a>
-<a href="https://live-editor-code.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-PROBAR-BLACK?style=for-the-badge&color=ff9"></a>
+<p>A code editor is a software tool designed to write and edit the source code of computer programs. These editors offer features that make programming easier, such as syntax highlighting, autocompletion, debugging, and project management.</p>
+<a href="https://github.com/Reguineo0/Live-Editor-code" target="_blank"><img src="https://img.shields.io/badge/-CODE-cfaae0?style=for-the-badge&color=fbfc40&logoColor=black&logo=github"></a>
+<a href="https://live-editor-code.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-TEST-BLACK?style=for-the-badge&color=ff9"></a>
 </div>
                                                                                       
 </td>  
@@ -93,14 +94,14 @@
 
 <p align="center">
 
-- **Lenguajes**:
+- **Langs**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     ![Sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)
 <br>   
     
-- **Desarrollo Front-End**:
+- **Front-End Development**:
 
     ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -110,14 +111,14 @@
 
 <br>
 
-- **Desarrollo Back-End**:
+- ** Back-End Development**:
 
    ![PYTHON](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
    ![MONGODB](https://img.shields.io/badge/-MongoDB-228013?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
 
 <br>
 
-- **Herramientas**:
+- **Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -128,7 +129,7 @@
 </p>
 <br>
 
-## <b>Conectemos</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b>let's connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
@@ -143,6 +144,10 @@
 <li>
 <a href="https://x.com/reguineo26284" target="_blank">
 	<img src="https://img.shields.io/badge/Twitter-349beb?style=for-the-badge&logo=x&logoColor=white" style="margin-bottom: 5px;"></a></li>
+	<br>
+<li>
+<a>
+	<img src="https://img.shields.io/badge/Bounder-254dc4?style=for-the-badge&logo=Discord&logoColor=white" style="margin-bottom: 5px;"></a></li>
 	<br>
 <li>
 
