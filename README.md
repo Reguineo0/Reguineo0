@@ -20,7 +20,7 @@
 <div align="center">
 <a href="https://github.com/Reguineo0/Super-mario-bros" target="_blank"></a>
 <p>
-<br>
+
 </p>
 <p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
   <br>
@@ -35,9 +35,8 @@
 <div align="center">                                       
 <a href="https://github.com/Reguineo0/Reproductor-De-Musica" target="_blank"></a>
 <p>
-<br>
 </p>
-<p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+<p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing.</p>
   <br>
   <a href="https://github.com/Reguineo0/Reproductor-De-Musica" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
