@@ -92,8 +92,10 @@
 
 - **Lenguajes**:
     
+    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=SASS&logoColor=white)
+    ![REACT](https://shields.io/badge/react-1c66b0?logo=react&style=for-the-badge&logoColor=white)
 
 <br>   
     
@@ -105,6 +107,12 @@
 
 <br>
 
+- **Back-End Development**:
+
+   ![PYTHON](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+   ![MONGODB](https://img.shields.io/badge/-MongoDB-228013?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
+
+<br>
 
 - **Herramientas**:
 
