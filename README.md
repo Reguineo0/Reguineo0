@@ -22,7 +22,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Super Mario Bros ↗️</h3>
+<h3 align="center">Super Mario Bros </h3>
 <div align="center">
 
 <p>
@@ -40,7 +40,7 @@
 </td>  
 
 <td width="50%">
-<h3 align="center">Reproductor De Musica ↗️</h3>
+<h3 align="center">Reproductor De Musica </h3>
 <div align="center">                                       
 
 <p>
