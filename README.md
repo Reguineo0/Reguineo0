@@ -117,7 +117,9 @@
 ## ⚙️ &nbsp;  GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/ArisGuimera">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Reguineo0&show_icons=true&theme=dark#gh-dark-mode-only">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Reguineo0&include_all_commits=true&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" alt="Abdo Achhoubi Github Stats">
+<br />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reguineo0&layout=compact&theme=dark#gh-dark-mode-only" alt="Abdo Achhoubi Top Languages"/>
 </a>
 </p>
