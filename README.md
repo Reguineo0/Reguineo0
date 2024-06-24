@@ -121,7 +121,3 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Reguineo0&show_icons=true&theme=dark#gh-dark-mode-only">
 </a>
 </p>
-
-<br>
-<br>
-<br>
