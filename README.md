@@ -160,13 +160,13 @@
 ## ⚙️ &nbsp; Github Analystic
 <br><td>
 <p align="center">
-<img align="center" style="height:12rem;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Reguineo0&include_all_commits=true&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" >
+<img align="center" style="height:13rem;" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Reguineo0&include_all_commits=true&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only" >
 	<br>
 	<br>
-<img align="center" style="height:12rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=Reguineo0&theme=dark#gh-dark-mode-only" alt="mystreak">
+<img align="center" style="height:13rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=Reguineo0&theme=dark#gh-dark-mode-only" alt="mystreak">
 	<br>
 	<br>
-<img align="center" style="height:14rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reguineo0&layout=compact&theme=dark#gh-dark-mode-only">
+<img align="center" style="height:18rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reguineo0&layout=compact&theme=dark#gh-dark-mode-only&hide=HTML">
 </p>
 </td>
 <br>
