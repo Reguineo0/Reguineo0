@@ -113,7 +113,7 @@
 
 <br>
 
-- ** Back-End Development**:
+- **Back-End Development**:
 
    ![PYTHON](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
    ![MONGODB](https://img.shields.io/badge/-MongoDB-228013?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
@@ -168,7 +168,7 @@
 <img align="center" style="height:13rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=Reguineo0&theme=dark#gh-dark-mode-only" alt="mystreak">
 	<br>
 	<br>
-<img align="center" style="height:18rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reguineo0&layout=compact&theme=dark#gh-dark-mode-only&hide=HTML">
+<img align="center" style="height:18rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reguineo0&layout=compact&theme=dark#gh-dark-mode-only&Hide=HTML">
 </p>
 </td>
 <br>
