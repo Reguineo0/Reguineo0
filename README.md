@@ -29,7 +29,6 @@
 
 </p>
 <p>"Super Mario Bros." is a platform video game developed by Nintendo and released in 1985. Starring Mario, an Italian plumber, and his brother Luigi, players must rescue Princess Peach from the villain Bowser.</p>
-<br>
   <a href="https://github.com/Reguineo0/Super-mario-bros" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
 <a href="https://supermariobros-s.netlify.app" target="_blank">
@@ -64,7 +63,6 @@
 </p>
 <p>
 "Arkanoid" is a classic arcade video game, developed by Taito in 1986. It is an enhanced version of the Atari game "Breakout", where players control a moving paddle to hit a ball and destroy blocks at the top of the screen.</p>
-<br>
 <a href="https://github.com/Reguineo0/Arkanoid" target="_blank">
 	<img src="https://img.shields.io/badge/-CODE-3fFD7f?style=for-the-badge&logo=github&logoColor=black"></a>
 <a href="https://arkanoido5.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-TEST-green?style=for-the-badge&color=80ffaa">
