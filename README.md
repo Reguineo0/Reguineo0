@@ -45,7 +45,7 @@
 
 <p>
 </p>
-<p>A music player is a device or application that allows users to listen to audio files stored locally or streamed online. These players offer features like customizable playlists, sound equalization, music library management, etc.</p>
+<p>A music player is a device or application that allows users to listen to audio files stored locally or streamed online. These players offer features like customizable playlists, sound equalization or more functions. etc, </p>
 <br>
   <a href="https://github.com/Reguineo0/Reproductor-De-Musica" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
@@ -80,7 +80,7 @@
 <p>
 
 </p>
-<p>A code editor is a software tool designed to write and edit the source code of computer programs. These editors offer features that make programming easier, such as syntax highlighting, autocompletion, debugging, and project management.</p>
+<p>A code editor is a software tool designed to write and edit the source code of computer programs. These editors offer features that make programming easier, such as syntax highlighting, autocompletion, debugging and another functs.</p>
 <br>
 <a href="https://github.com/Reguineo0/Live-Editor-code" target="_blank"><img src="https://img.shields.io/badge/-CODE-cfaae0?style=for-the-badge&color=fbfc40&logoColor=black&logo=github"></a>
 <a href="https://live-editor-code.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-TEST-BLACK?style=for-the-badge&color=ff9"></a>
