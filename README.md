@@ -29,6 +29,7 @@
 
 </p>
 <p>"Super Mario Bros." is a platform video game developed by Nintendo and released in 1985. Starring Mario, an Italian plumber, and his brother Luigi, players must rescue Princess Peach from the villain Bowser.</p>
+<br>
   <a href="https://github.com/Reguineo0/Super-mario-bros" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black"></a>
 <a href="https://supermariobros-s.netlify.app" target="_blank">
@@ -45,6 +46,7 @@
 <p>
 </p>
 <p>A music player is a device or application that allows users to listen to audio files stored locally or streamed online. These players offer features like customizable playlists, sound equalization, music library management, etc.</p>
+<br>
   <a href="https://github.com/Reguineo0/Reproductor-De-Musica" target="_blank">
 <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black"></a>
 <a href="https://reproductor-de-musica02.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-TEST-green?style=for-the-badge&color=3fFD7f">
@@ -63,6 +65,7 @@
 </p>
 <p>
 "Arkanoid" is a classic arcade video game, developed by Taito in 1986. It is an enhanced version of the Atari game "Breakout", where players control a moving paddle to hit a ball and destroy blocks at the top of the screen.</p>
+<br>
 <a href="https://github.com/Reguineo0/Arkanoid" target="_blank">
 	<img src="https://img.shields.io/badge/-CODE-3fFD7f?style=for-the-badge&logo=github&logoColor=black"></a>
 <a href="https://arkanoido5.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-TEST-green?style=for-the-badge&color=80ffaa">
@@ -78,6 +81,7 @@
 
 </p>
 <p>A code editor is a software tool designed to write and edit the source code of computer programs. These editors offer features that make programming easier, such as syntax highlighting, autocompletion, debugging, and project management.</p>
+<br>
 <a href="https://github.com/Reguineo0/Live-Editor-code" target="_blank"><img src="https://img.shields.io/badge/-CODE-cfaae0?style=for-the-badge&color=fbfc40&logoColor=black&logo=github"></a>
 <a href="https://live-editor-code.netlify.app" target="_blank"><img src="https://img.shields.io/badge/-TEST-BLACK?style=for-the-badge&color=ff9"></a>
 </div>
