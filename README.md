@@ -166,7 +166,7 @@
 <img align="center" style="height:12rem;" src="https://github-readme-streak-stats.herokuapp.com/?user=Reguineo0&theme=dark#gh-dark-mode-only" alt="mystreak">
 	<br>
 	<br>
-<img align="center" style="height:14rem;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Reguineo0&layout=compact&theme=dark#gh-dark-mode-only">
+<img align="center" style="height:14rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reguineo0&layout=compact&theme=dark#gh-dark-mode-only">
 </p>
 </td>
 <br>
