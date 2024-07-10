@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Greeting, Im <a href="https://Bounder.netlify.app">Bounder</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
-<a href="https://bounder.netlify.app"><img src="https://imgur.com/SjBdFML.png"></a>
+<a href="https://bounder.netlify.app"><img src="https://cdn.discordapp.com/attachments/1030564440904585338/1260413148226256947/Readme.png?ex=668f3ab7&is=668de937&hm=b4be9343909a2f3011b173168ab9b831bc58efd594a3ae5c157d80afbb31fc6e&"></a>
 
 
 
